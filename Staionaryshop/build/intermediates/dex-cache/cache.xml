@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.4_0a991b4545bba3070eb1dbf93db231707409c53f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_5ac307d015ceee1f3fb6ede7d381a1699d867681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_31c38126c329e1e1c32ab8f3b5503d48f9333669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_31f63aca2b6e24dc3804626e2b419c9bb8d7b89b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_eb41db6a25e51b7160cef83a10772f441bea40b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9d9e829b55d5604f20b94c60a5a8c5f4ad7ff285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_05809591e300ec870a8f8055f91b159a9477054d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_30359850cb18e063ed9481ed8c317044673c1001/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.14.1_3c0d185077a820a190344ac3b0b6ff51dfd33184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_01754d8188be0dbcc4c4d5f6b41dba04bfd45c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_a94b75e301b3e79dccc80b03651af4997f918666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d672cf6e9e76ddf6e3f02fe019a9dd27b44be52">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cf216d4906773b5ae152aa6919b300056acfd6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="de5cce6824444f44de8e68915ac041f667cb1d9b">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fd562b06089a42639108e11c310205f29272616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_00abe487cf3b81eaa64d7086eea710813df417bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.14.1_e49058717966ad0b601e6d59176ee4e454e335bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.14.1_4e7816426d1c287a8266b61107b3eceaf3cbb58e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_7762a8f6695170d0abba83b2c3a5708890733698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-11.0.4_c4439bb2890ba60cc2e8ba21d95bcb180a187e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d5d77195572d171fda3ae7a194929102467d169e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_9c8f2a989d50614900fc42744ba50cb6790eddd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_40089c4d3dc77e49827c6e927f6a81e058ef0bb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.14.1_cbf158957bf3712e75cbd427159c245650d9c159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_ff5f66f5c3d7edf2c1f2e50f26c74a766aa15510/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.4_f83d973d1d0eca91e266b29fead3607dd4b8e85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.14.1_4fe81ed23d0ef485c07bb3345a13602a2f3ec25e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.4_3b82e35c9bb96b3b95ad8a03fcd96b59814a2121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Music/BombayStaionary/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.4_b0f13d022e3448c8810538ef94108987fbd0cc0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671916437856",
+    "firebase_url": "https://bombaystationary-1.firebaseio.com",
+    "project_id": "bombaystationary-1",
+    "storage_bucket": "bombaystationary-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671916437856:android:e838f2b44c464a02",
+        "android_client_info": {
+          "package_name": "com.manasi.bombaystationary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671916437856-ivuleq1n8pm1qopgte27jv13rqg3n2ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manasi.bombaystationary",
+            "certificate_hash": "8c0a0ad9ee362c97bdcc1f6ed7f048bc96c720ff"
+          }
+        },
+        {
+          "client_id": "671916437856-b16rcgdv2960q6kntllbmu4sjhmbbpgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1-1sECog4N-r9fKuPJQm8oI9D66clvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671916437856-b16rcgdv2960q6kntllbmu4sjhmbbpgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/menu/main.xml"
+    }
+]

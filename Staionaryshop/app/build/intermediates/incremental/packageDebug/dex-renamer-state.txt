@@ -1,0 +1,7 @@
+#Fri Mar 30 21:58:48 IST 2018
+base.0=/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cf216d4906773b5ae152aa6919b300056acfd6b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fd562b06089a42639108e11c310205f29272616/classes.dex
+base.1=/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fd562b06089a42639108e11c310205f29272616
+file.0=/root/Music/BombayStaionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cf216d4906773b5ae152aa6919b300056acfd6b/classes.dex

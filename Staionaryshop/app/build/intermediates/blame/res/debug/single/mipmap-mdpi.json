@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_bag.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/mipmap-mdpi/ic_launcher_bag.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

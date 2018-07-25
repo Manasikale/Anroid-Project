@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_filter_none_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_filter_none_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_discount.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_discount.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/bag.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/bag.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_more_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_more_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_account_circle_black_48dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_account_circle_black_48dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_dining_black_24dp1.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_local_dining_black_24dp1.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_card_giftcard_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_card_giftcard_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_smartphone_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_favorite_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_favorite_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_offer_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_local_offer_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_cart_white_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_shopping_cart_white_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_book_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_book_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_dining_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_local_dining_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_person_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_travel.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_travel.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_movie.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_movie.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mode_edit_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_mode_edit_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_wc_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_wc_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notifications_white_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_favorite_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_cart_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_basket_black_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_shopping_basket_black_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/printer.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/printer.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_white_24dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clear_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_clear_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_share_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_share_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_favorite_border_black_18dp.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_favorite_border_black_18dp.png"
+    },
+    {
+        "merged": "/root/Music/BombayStaionary/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_food.png",
+        "source": "/root/Music/BombayStaionary/app/src/main/res/drawable-xhdpi/ic_food.png"
+    }
+]
